@@ -17,7 +17,7 @@ namespace Library_Management_System
 
             if (loginform.IsAuthenticated)
             {
-                Application.Run(new DashboardForm());
+                Application.Run(new UserControl());
             }
         }
     }

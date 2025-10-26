@@ -28,23 +28,13 @@
         /// </summary>
         private void InitializeComponent()
         {
-            SuspendLayout();
-            // 
-            // UserControl1
-            // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
-            AutoScaleMode = AutoScaleMode.Font;
-            Name = "UserControl1";
-            Size = new Size(1108, 584);
-            ResumeLayout(false);
-
             panel1 = new Panel();
+            label2 = new Label();
             button1 = new Button();
             label1 = new Label();
             button2 = new Button();
             button3 = new Button();
             button4 = new Button();
-            label2 = new Label();
             panel1.SuspendLayout();
             SuspendLayout();
             // 
@@ -60,6 +50,16 @@
             panel1.Name = "panel1";
             panel1.Size = new Size(1103, 66);
             panel1.TabIndex = 0;
+            // 
+            // label2
+            // 
+            label2.AutoSize = true;
+            label2.Font = new Font("Segoe UI Light", 15.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            label2.ForeColor = SystemColors.MenuText;
+            label2.Location = new Point(570, 20);
+            label2.Name = "label2";
+            label2.Size = new Size(0, 30);
+            label2.TabIndex = 2;
             // 
             // button1
             // 
@@ -120,24 +120,13 @@
             button4.Text = "Return Books";
             button4.UseVisualStyleBackColor = false;
             // 
-            // label2
-            // 
-            label2.AutoSize = true;
-            label2.Font = new Font("Segoe UI Light", 15.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            label2.ForeColor = SystemColors.MenuText;
-            label2.Location = new Point(570, 20);
-            label2.Name = "label2";
-            label2.Size = new Size(264, 30);
-            label2.TabIndex = 2;
-            // 
-            // DashboardForm
+            // UserControl1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = SystemColors.MenuBar;
             BackgroundImage = Properties.Resources._5467433_17271;
             BackgroundImageLayout = ImageLayout.Stretch;
-            ClientSize = new Size(1103, 569);
             Controls.Add(button4);
             Controls.Add(button3);
             Controls.Add(button2);
@@ -145,9 +134,9 @@
             DoubleBuffered = true;
             Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
             ForeColor = SystemColors.ControlText;
-            Name = "DashboardForm";
+            Name = "UserControl1";
             RightToLeft = RightToLeft.No;
-            Text = " Library Management System";
+            Size = new Size(1103, 569);
             panel1.ResumeLayout(false);
             panel1.PerformLayout();
             ResumeLayout(false);
