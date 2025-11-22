@@ -1,0 +1,18 @@
+D:\User\Desktop\New folder (2)\Library Management System.exe
+D:\User\Desktop\New folder (2)\Library Management System.dll
+D:\User\Desktop\New folder (2)\Library Management System.deps.json
+D:\User\Desktop\New folder (2)\Library Management System.runtimeconfig.json
+D:\User\Desktop\New folder (2)\Library Management System.pdb
+D:\User\Desktop\New folder (2)\BouncyCastle.Cryptography.dll
+D:\User\Desktop\New folder (2)\Google.Protobuf.dll
+D:\User\Desktop\New folder (2)\K4os.Compression.LZ4.dll
+D:\User\Desktop\New folder (2)\K4os.Compression.LZ4.Streams.dll
+D:\User\Desktop\New folder (2)\K4os.Hash.xxHash.dll
+D:\User\Desktop\New folder (2)\MySql.Data.dll
+D:\User\Desktop\New folder (2)\System.IO.Pipelines.dll
+D:\User\Desktop\New folder (2)\ZstdSharp.dll
+D:\User\Desktop\New folder (2)\runtimes\win-x64\native\comerr64.dll
+D:\User\Desktop\New folder (2)\runtimes\win-x64\native\gssapi64.dll
+D:\User\Desktop\New folder (2)\runtimes\win-x64\native\k5sprt64.dll
+D:\User\Desktop\New folder (2)\runtimes\win-x64\native\krb5_64.dll
+D:\User\Desktop\New folder (2)\runtimes\win-x64\native\krbcc64.dll
