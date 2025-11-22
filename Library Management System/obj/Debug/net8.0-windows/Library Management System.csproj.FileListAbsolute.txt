@@ -13,7 +13,6 @@ C:\Users\kumud\source\repos\Library Management System\Library Management System\
 C:\Users\kumud\source\repos\Library Management System\Library Management System\obj\Debug\net8.0-windows\Library Management System.pdb
 C:\Users\kumud\source\repos\Library Management System\Library Management System\obj\Debug\net8.0-windows\Library Management System.genruntimeconfig.cache
 C:\Users\kumud\source\repos\Library Management System\Library Management System\obj\Debug\net8.0-windows\ref\Library Management System.dll
-C:\Users\kumud\source\repos\Library Management System\Library Management System\bin\Debug\net8.0-windows\Siticone.Desktop.UI.dll
 C:\Users\kumud\source\repos\Library Management System\Library Management System\obj\Debug\net8.0-windows\Library Management System.csproj.AssemblyReference.cache
 C:\Users\kumud\source\repos\Library Management System\Library Management System\obj\Debug\net8.0-windows\Library .F7D87690.Up2Date
 C:\Users\kumud\source\repos\Library Management System\Library Management System\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
@@ -29,7 +28,18 @@ C:\Users\kumud\source\repos\Library Management System\Library Management System\
 C:\Users\kumud\source\repos\Library Management System\Library Management System\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
 C:\Users\kumud\source\repos\Library Management System\Library Management System\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
 C:\Users\kumud\source\repos\Library Management System\Library Management System\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
-C:\Users\kumud\source\repos\Library Management System\Library Management System\obj\Debug\net8.0-windows\Library_Management_System.DashboardForm.resources
 C:\Users\kumud\source\repos\Library Management System\Library Management System\obj\Debug\net8.0-windows\Library_Management_System.LoginForm.resources
 C:\Users\kumud\source\repos\Library Management System\Library Management System\obj\Debug\net8.0-windows\Library_Management_System.Properties.Resources.resources
-C:\Users\kumud\source\repos\Library Management System\Library Management System\obj\Debug\net8.0-windows\Library_Management_System.UserControl1.resources
+C:\Users\kumud\source\repos\Library Management System\Library Management System\obj\Debug\net8.0-windows\Library Management System.sourcelink.json
+C:\Users\kumud\source\repos\Library Management System\Library Management System\obj\Debug\net8.0-windows\Library_Management_System.SearchControl.resources
+C:\Users\kumud\source\repos\Library Management System\Library Management System\obj\Debug\net8.0-windows\Library_Management_System.AdminDashboardForm.resources
+C:\Users\kumud\source\repos\Library Management System\Library Management System\obj\Debug\net8.0-windows\Library_Management_System.UserDashboardForm.resources
+C:\Users\kumud\source\repos\Library Management System\Library Management System\obj\Debug\net8.0-windows\Library_Management_System.IssueControl.resources
+C:\Users\kumud\source\repos\Library Management System\Library Management System\obj\Debug\net8.0-windows\Library_Management_System.ReturnControl.resources
+C:\Users\kumud\source\repos\Library Management System\Library Management System\obj\Debug\net8.0-windows\Library_Management_System.AddControl.resources
+C:\Users\kumud\source\repos\Library Management System\Library Management System\obj\Debug\net8.0-windows\Library_Management_System.UpdateControl.resources
+C:\Users\kumud\source\repos\Library Management System\Library Management System\obj\Debug\net8.0-windows\Library_Management_System.DeleteControl.resources
+C:\Users\kumud\source\repos\Library Management System\Library Management System\obj\Debug\net8.0-windows\Library_Management_System.AddMemberControl.resources
+C:\Users\kumud\source\repos\Library Management System\Library Management System\obj\Debug\net8.0-windows\Library_Management_System.UpdateMemberControl.resources
+C:\Users\kumud\source\repos\Library Management System\Library Management System\obj\Debug\net8.0-windows\Library_Management_System.DeleteMemberControl.resources
+C:\Users\kumud\source\repos\Library Management System\Library Management System\obj\Debug\net8.0-windows\Library_Management_System.PasswordChangeControl.resources

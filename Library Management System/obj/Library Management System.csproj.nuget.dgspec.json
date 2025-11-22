@@ -53,10 +53,6 @@
             "MySql.Data": {
               "target": "Package",
               "version": "[9.5.0, )"
-            },
-            "Siticone.Desktop.UI": {
-              "target": "Package",
-              "version": "[2.1.1, )"
             }
           },
           "imports": [

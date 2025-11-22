@@ -1,22 +1,23 @@
 using MySql.Data.MySqlClient;
-using System.Web;
 
 namespace Library_Management_System
 {
     public partial class LoginForm : Form
     {
         public bool IsAuthenticated { get; private set; } = false;
-        public static string username { get; private set; } = string.Empty;
+        public string username { get; private set; } = string.Empty;
         public static string role { get; private set; } = string.Empty;
         public static string fname { get; private set; } = string.Empty;
+
         public LoginForm()
         {
             InitializeComponent();
+            this.AcceptButton = button1;
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-             username = this.textBox1.Text;
+            username = this.textBox1.Text;
             string password = this.textBox2.Text;
 
             using (var conn = Database.GetConnecton())
@@ -30,7 +31,7 @@ namespace Library_Management_System
 
                     using (MySqlDataReader result = cmd.ExecuteReader())
                     {
-                        if (result.Read()) 
+                        if (result.Read())
                         {
                             username = result["username"].ToString() ?? string.Empty;
                             fname = result["fname"].ToString() ?? string.Empty;
@@ -51,10 +52,11 @@ namespace Library_Management_System
                                 }
                             }
                         }
+                        else
+                        {
+                            MessageBox.Show("Username is not exists.");
+                        }
                     }
-
-
-                    conn.Close();
                 }
                 catch (Exception ex)
                 {
@@ -64,4 +66,3 @@ namespace Library_Management_System
         }
     }
 }
-    
